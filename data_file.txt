@@ -1,0 +1,4 @@
+This is my data file.  It has version 4.0
+
+-- Automatically replicate the current version of project documents, code and data across devices and collaborators. -- Rigidly track versions of code and data 
+ 
